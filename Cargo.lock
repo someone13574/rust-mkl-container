@@ -380,9 +380,9 @@ dependencies = [
 
 [[package]]
 name = "intel-mkl-tool"
-version = "0.8.0"
+version = "0.8.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7432a0ea8af163128eac62c5382925375aeb8399fa15b82d23581643031a1b48"
+checksum = "887a16b4537d82227af54d3372971cfa5e0cde53322e60f57584056c16ada1b4"
 dependencies = [
  "anyhow",
  "log",
